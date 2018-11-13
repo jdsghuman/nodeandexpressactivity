@@ -1,0 +1,44 @@
+/* HEADER */
+.title__center {
+    text-align: center;
+}
+
+/* INPUT */
+.btn__submit {
+    float: right;
+    margin-top: 20px;
+}
+
+.input__form {
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    max-width: 170px;
+    min-width: 150px;
+}
+
+/* TABLE */
+.table__container {
+    overflow-x: auto;
+}
+.employees__container {
+    padding-top: 75px;
+}
+
+#month__display {
+    float: right;
+    margin-bottom: 40px;
+}
+
+#table__employees--none {
+    color: #888888;
+    padding-bottom: 20px;
+}
+
+/* MONTH TOTAL DISPLAY */
+.month__total--red {
+    background-color: rgba(243, 8, 8, 0.897);
+    padding: 5px;
+    border-radius: 4px;
+}
